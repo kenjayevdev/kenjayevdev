@@ -5,7 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://devscript.uz/"title="My Web-Site"><img width="25" src="images/web.png"> My Web-Site</a></code>
+  <code><a href="https://devscript.uz/"title="My Web-Site"><img width="25" src="images/wb.png"> My Web-Site</a></code>
   <code><a href="https://www.instagram.com/Kenjayevdev/"title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
   <code><a href="https://x.com/Kenjayevdev"title="X Profile"><img width="20" src="images/x.png"> X</a></code>
   <code><a href="https://t.me/kenjayevdev"title="Telegram Profile"><img width="38" src="images/tm.png">Telegram</a></code>
