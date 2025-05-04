@@ -14,7 +14,7 @@
         I introduce myself
         My name is Jasur Kenjayev and I am a Full Stack Developer.
         I live in Uzbekistan and I am 23 years old.
-        I study at the Termez State University of Engineering and Agrotechnology, I am interested in the world of Computer Science and the internet in general. I started out interested in the world of programming from 2015, and I started learning programming from 2016, and so far I have achieved great achievements in the world of programming
+        I study at the Termez State University of Engineering and Agrotechnology, I am interested in the world of Computer Science and the internet in general. I started out interested in the world of programming from 2015, and I started learning programming from 2016, and so far I have achieved great achievements in the world of programming.
       </p>
 </h6>
 
