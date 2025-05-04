@@ -1,4 +1,6 @@
+<h1 align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=24&pause=1000&color=23FF45&background=000000&center=true&vCenter=true&repeat=false&width=435&height=70&lines=Hello%2C+There!%F0%9F%91%8B;This+is+Jasur+Kenjayev....;%F0%9F%92%BB+Full+Stack+Developer;Nice+to+meet+you!)](https://git.io/typing-svg)
+</h1>
 
 <h5 align="center">
   <code><a href="https://devscript.uz/"title="My web-site"><img width="25" src="images/wb.png"> My web-site</a></code>
