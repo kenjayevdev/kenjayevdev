@@ -3,7 +3,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://devscript.uz/"title="My web-site"><img width="25" src="images/wb.png"> My web-site</a></code>
+  <code><a href="https://devscript.uz/"title="My web-site"><img width="23" src="images/wb.png"> My web-site</a></code>
   <code><a href="https://www.instagram.com/Kenjayevdev/"title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
   <code><a href="https://x.com/Kenjayevdev"title="Twitter Profile"><img width="20" src="images/x.png"> Twitter</a></code>
   <code><a href="https://t.me/kenjayevdev"title="Telegram Profile"><img width="23" src="images/tg1.png"> Telegram</a></code>
