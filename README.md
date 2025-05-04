@@ -36,6 +36,7 @@
   <code><img title="Pycharm" height="25" src="images/pc.png"></code>
   <code><img title="Postman" height="25" src="images/postman.png"></code>
   <code><img title="Kali Linux" height="25" src="images/kali-linux.png"></code>
+  <code><img title="ubuntu" height="25" src="images/Ubuntu_logoib.svg.png"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
